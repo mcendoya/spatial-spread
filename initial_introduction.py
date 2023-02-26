@@ -1,5 +1,4 @@
 # -*- coding: utf-8 -*-
-# -*- coding: utf-8 -*-
 """
 
 Initial introduction at t=0 for the different types of initial introduction 
