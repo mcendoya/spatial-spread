@@ -40,7 +40,7 @@ for different values of the parameters for each type of initial introduction (ra
 dir_s = "./results/parameters/"
 
 # Parameters
-beta_val = [0.015, 0.03, 0.045]
+beta_val = [0.005, 0.015, 0.03]
 rg_val = [250, 500, 750, 1000]
 nu_val = [0.5, 1, 1.5]
 sigma = 8
@@ -103,7 +103,7 @@ In each simulation different location of the initial infected individuals.
 dir_s = "./results/introductions_10/"
 
 # Parameters
-beta_val = [0.015, 0.03, 0.045]
+beta_val = [0.005, 0.015, 0.03]
 rg_val = [250, 500, 750, 1000]
 nu = 1
 sigma = 8
@@ -162,7 +162,7 @@ for different parameter values for each type of initial introduction (random, 5 
 dir_s = "./results/simulations_10/"
 
 # Parameters
-beta_val = [0.015, 0.03, 0.045]
+beta_val = [0.005, 0.015, 0.03]
 rg_val = [250, 500, 750, 1000]
 nu = 1
 sigma = 8
