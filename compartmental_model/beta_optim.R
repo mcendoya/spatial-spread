@@ -34,9 +34,9 @@ r <- c(250,500,750,1000)
 yr <- c(2018,2019,2020,2021)
 
 for(y in yr){
-  df_yr <- data[data$AÑO==y,]
-  locs_S <- df_yr[df_yr$res==0, 7:8]
-  locs_I <- df_yr[df_yr$res==1, 7:8]
+  df_yr <- data[data$year==y,]
+  locs_S <- df_yr[df_yr$res==0, 1:2]
+  locs_I <- df_yr[df_yr$res==1, 1:2]
   for(rg in r){
     d_max <- rg +(1.5*rg)
     cor_mat <- matrix(NA, nrow = nrow(locs_S), ncol = nrow(locs_I))
