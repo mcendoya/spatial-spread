@@ -3,5 +3,5 @@ Data and code for the study: An individual-based spatial epidemiological model f
 
 Results of the case study can be viewed interactively at <a href="https://spatial-ibm.shinyapps.io/spread_results_app/">Shiny app</a>.
 
-Cite the code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10683923.svg)](https://doi.org/10.5281/zenodo.10683923)
+Cite the code: [![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo-blue.svg)](https://doi.org/10.5281/zenodo.10683923)
 
